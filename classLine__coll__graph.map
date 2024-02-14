@@ -1,0 +1,4 @@
+<map id="Line" name="Line">
+<area shape="rect" id="node1" title="The primitive line." alt="" coords="18,145,91,237"/>
+<area shape="rect" id="node2" href="$classPrimitive.html" title="The interface for primitives." alt="" coords="5,5,104,97"/>
+</map>
